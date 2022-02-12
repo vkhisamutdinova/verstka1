@@ -40,7 +40,7 @@ nav li a {
       text-decoration: none;
       font-weight: bold;
       font-family: Arial;
-      color: №FCFAFA; 
+      font-color: №FCFAFA; 
 }
 nav ul li:hover {
   background-color: #B583D4;
