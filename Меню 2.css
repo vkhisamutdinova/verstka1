@@ -39,8 +39,8 @@ nav li a {
       padding: 21px;
       text-decoration: none;
       font-weight: bold;
-      font-family: Impact;
-      color: white; 
+      font-family: Arial;
+      color: #800000; 
 }
 nav ul li:hover {
   background-color: #B583D4;
