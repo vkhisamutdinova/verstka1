@@ -3,7 +3,7 @@
 }
 
 body {
-     background: #1c1e22;
+     background: #ffffff;
      color: #fff;
 }
 .support-warning {
@@ -103,7 +103,7 @@ body {
      color: #fff;
 }
 .img-background--pionspink{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://github.com/vkhisamutdinova/verstka1/blob/dbc9a19b8a9613bf4ed9b00cb39e7a053e90daf3/8f52cbc387ef8870c02dadbd1bff4ac1.jpg);
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://content3.flowwow-images.com/data/blog/1562599250_29351868.jpg);
 	 background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
