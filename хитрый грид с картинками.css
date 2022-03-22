@@ -96,7 +96,7 @@ body {
    color: #ffffff;
    }
  .img-background--pionsgray{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://github.com/vkhisamutdinova/verstka1/blob/0fa73fb12084266bb44d980712bedc66c09df204/8ebe4147dff8f11ae399f34d2a64c923.jpg);
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://www.imgonline.com.ua/examples/bee-on-daisy.jpg);
 	 background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
@@ -111,7 +111,7 @@ body {
 }
 
 .img-background--pionsdark{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://github.com/vkhisamutdinova/verstka1/blob/0fa73fb12084266bb44d980712bedc66c09df204/6f56b541d5b36512717403a76e8da2c2.jpg);
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://st.depositphotos.com/2000885/1902/i/600/depositphotos_19021343-stock-photo-red-heart.jpg);
 	 background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
