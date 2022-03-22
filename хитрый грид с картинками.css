@@ -100,8 +100,8 @@ body {
      background-position: center center;
      color: #fff;
 }
-.img-background--sea {
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sites.google.com/site/konoplevmedia/sea.png');
+.img-background--pionsdark {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://raw.githack.com/vkhisamutdinova/verstka1/b5cf293a8ee27b92f871b3c84a28d5f28e6b72c6/8ebe4147dff8f11ae399f34d2a64c923.jpg');
 }
 .img-background--wave {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sites.google.com/site/konoplevmedia/wave.png');
