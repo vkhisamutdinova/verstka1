@@ -100,14 +100,14 @@ body {
      background-position: center center;
      color: #fff;
 }
-.img-background--sea {
+.img-background--pionsdark {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.pinimg.com/564x/30/56/1b/30561bbf3c5751a59e8797dbcd9c8967.jpg');
 }
-.img-background--wave {
+.img-background--pionspink {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.pinimg.com/564x/d7/bc/ac/d7bcac507b439088604da2c65431e603.jpg');
 }
 
-.img-background--horizon {
+.img-background--pions {
      background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.pinimg.com/564x/75/43/02/754302b096c59526acfd3a23cd57dc11.jpg');
      background-size: cover;
      background-repeat: no-repeat;
@@ -120,4 +120,3 @@ body {
 .theme-pastelpink {
    background: #E8ACAC;
    color: #ffffff;
-} 
