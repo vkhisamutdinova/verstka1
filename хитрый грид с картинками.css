@@ -1,4 +1,5 @@
-*{
+
+* {
      box-sizing: border-box;
 }
 
@@ -46,7 +47,7 @@ body {
          width: auto;
      }
      
-     .l-grid {
+.l-grid {
           display: grid;
      }
 }
@@ -89,40 +90,33 @@ body {
      font-size: 1rem;
      line-height: 1.5;
 }
-
-}
 .theme-rocketmetallic {
    background: #8F7F7F;
    color: #ffffff;
-   }
- .img-background--pionsgray{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://www.imgonline.com.ua/examples/bee-on-daisy.jpg);
-	 background-size: cover;
+}
+.img-background {
+     background-size: cover;
      background-repeat: no-repeat;
-     background-position: center;
+     background-position: center center;
      color: #fff;
 }
-.img-background--pionspink{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://content3.flowwow-images.com/data/blog/1562599250_29351868.jpg);
-	 background-size: cover;
-     background-repeat: no-repeat;
-     background-position: center;
-     color: #fff
+.img-background--sea {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sites.google.com/site/konoplevmedia/sea.png');
+}
+.img-background--wave {
+     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sites.google.com/site/konoplevmedia/wave.png');
 }
 
-.img-background--pionsdark{
-     background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://st.depositphotos.com/2000885/1902/i/600/depositphotos_19021343-stock-photo-red-heart.jpg);
-	 background-size: cover;
+.img-background--horizon {
+     background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://sites.google.com/site/konoplevmedia/horizon.png');
+     background-size: cover;
      background-repeat: no-repeat;
-     background-position: center;
-     color: #fff
-}  
- .theme-pastelpink {
-   background: #E8ACAC;
-   color: #ffffff;
+     color: #fff;
 }
-.theme-bittersweetshimmer {
+.theme-bittersweetdhimmer {
    background: #B85454;
    color: #ffffff;
 }
-
+.theme-pastelpink {
+   background: #E8ACAC;
+   color: #ffffff;
