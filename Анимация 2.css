@@ -16,7 +16,7 @@ body {
 }
 .layer-5 {
      animation: animation_fg linear 120s infinite both; 
-	 background: transparent url(https://i.ibb.co/xjpLQXm/image.png) 0 100% repeat-x;
+	 background: url(https://i.ibb.co/xjpLQXm/image.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -27,7 +27,7 @@ body {
 }
 .layer-4 {
      animation: animation_fg linear 95s infinite both; 
-	 background: transparent url(https://i.ibb.co/DK1dPC6/Mask-group-4.png) 0 100% repeat-x;
+	 background: url(https://i.ibb.co/DK1dPC6/Mask-group-4.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -38,7 +38,7 @@ body {
 }
 .layer-3 {
      animation: animation_fg linear 75s infinite both; 
-	 background: transparent url(https://i.ibb.co/rc43cGN/Mask-group-5-1.png) 0 100% repeat-x;
+	 background: url(https://i.ibb.co/rc43cGN/Mask-group-5-1.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -49,7 +49,7 @@ body {
 }
 .layer-2 {
      animation: animation_fg linear 55s infinite both; 
-	 background: transparent url(https://i.ibb.co/kgmfps7/Mask-group.png) 0 100% repeat-x;
+	 background: url(https://i.ibb.co/kgmfps7/Mask-group.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -60,7 +60,7 @@ body {
 }
 .layer-1 {
      animation: animation_fg linear 30s infinite both; 
-	 background: transparent url(https://i.ibb.co/Y84xCBt/Mask-group-8.png) 0 100% repeat-x;
+	 background:  url(https://i.ibb.co/Y84xCBt/Mask-group-8.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
@@ -70,7 +70,7 @@ body {
 	 background-size: auto 74px;
 }
 .object-1 {
-     background: transparent url(https://i.ibb.co/X8d59K6/Mask-group-10.png) 0 100% no-repeat;
+     background: url(https://i.ibb.co/X8d59K6/Mask-group-10.png) 0 100% no-repeat;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0px;
@@ -80,8 +80,8 @@ body {
 	 background-size: auto 277px;
 	 animation: animation_object linear 15s infinite both;
 }
-.animation-object object-2 {
-     background: transparent url(https://i.ibb.co/QbVxrbS/Mask-group-9.png) 0 100% no-repeat;
+.object-2 {
+     background:  url(https://i.ibb.co/QbVxrbS/Mask-group-9.png) 0 100% no-repeat;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 300px;
@@ -91,8 +91,8 @@ body {
 	 background-size: auto 255px;
 	 animation: animation_object linear 10s infinite both;
 }
-.animation-object object-2 {
-     animation: animation_animation-object object-2 linear 15s infinite both;
+.object-2 {
+     animation: animation_object object-2 linear 15s infinite both;
 }
 @keyframes animation_fg {
  0% {
