@@ -1,0 +1,133 @@
+* {
+    box-sizing: border-box;
+}
+body {
+       font-family: 'Arial', sans-serif;
+}
+.scene {
+     width: 100%;
+     height: 100%;
+	 min-height: 600px;
+	 position: relative;
+	 margin-top: 0px;
+	 marfin-left: 0px;
+	 background-color: ##FFF0F5;
+	 transform: translate3d(0, 0, 0);
+}
+.animation-background layer-5 {
+     animation: animation_fg linear 120s infinite both; 
+	 background: url('https://i.ibb.co/xjpLQXm/image.png') 0 100% repeat-x;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 512px;
+}
+.animation-background layer-4 {
+     animation: animation_fg linear 95s infinite both; 
+	 background: url('https://i.ibb.co/DK1dPC6/Mask-group-4.png') 0 100% repeat-x;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 849px;
+}
+.animation-background layer-3 {
+     animation: animation_fg linear 75s infinite both; 
+	 background: url('https://i.ibb.co/rc43cGN/Mask-group-5-1.png') 0 100% repeat-x;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 300px;
+}
+.animation-background layer-2 {
+     animation: animation_fg linear 55s infinite both; 
+	 background: url('https://i.ibb.co/kgmfps7/Mask-group.png') 0 100% repeat-x;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 111px;
+}
+.animation-background layer-1 {
+     animation: animation_fg linear 30s infinite both; 
+	 background: url('https://i.ibb.co/Y84xCBt/Mask-group-8.png') 0 100% repeat-x;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 74px;
+}
+.animation-object object-1 {
+     background: url('https://i.ibb.co/X8d59K6/Mask-group-10.png') 0 100% no-repeat;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 0px;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 277px;
+	 animation: animation_animation-object object-1 linear 15s infinite both;
+}
+.animation-object object-2 {
+     background: url('https://i.ibb.co/QbVxrbS/Mask-group-9.png') 0 100% no-repeat;
+	 z-index: 1;
+	 position: absolute;
+	 bottom: 300px;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 background-size: auto 255px;
+	 animation: animation_animation-object object-2 linear 10s infinite both;
+}
+.animation-object object-2 {
+     animation: animation_animation-object object-2 linear 10s infinite both;
+}
+@keyframes animation_fg {
+
+  0% {
+
+    background-position: 2765px 100%;
+
+  }
+
+  100% {
+
+    background-position: 550px 100%;
+
+  }
+
+}
+@keyframes animation_animation-object {
+
+  0% {
+
+    background-position: -300px 100%;
+
+  }
+
+  100% {
+
+    background-position: 2000px 100%;
+
+  }
+
+}
+
+	 
+     
+	 
+	 
+	 
+
