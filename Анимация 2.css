@@ -15,7 +15,7 @@ body {
 	 transform: translate3d(0, 0, 0);
 }
 .layer-5 {
-     animation: animation_fg linear 120s infinite both; 
+     animation: animation_fg linear 90s infinite both; 
 	 background: url(https://i.ibb.co/xjpLQXm/image.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
@@ -26,7 +26,7 @@ body {
 	 background-size: auto 512px;
 }
 .layer-4 {
-     animation: animation_fg linear 100s infinite both; 
+     animation: animation_fg linear 80s infinite both; 
 	 background: url(https://i.ibb.co/DK1dPC6/Mask-group-4.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
