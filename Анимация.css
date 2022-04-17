@@ -16,7 +16,7 @@ body {
 }
 .animation-background layer-5 {
      animation: animation_fg linear 120s infinite both; 
-	 background: url('https://github.com/vkhisamutdinova/verstka1/images/Mask%20group%20(1).png') 0 100% repeat-x;
+	 background: url('https://i.ibb.co/MVYSLZ8/Mask-group-1.png') 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
 	 bottom: 0;
