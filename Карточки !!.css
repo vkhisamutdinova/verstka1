@@ -103,6 +103,7 @@ body {
 }
 .card h3 {
   margin-top: -180px;
+  font: "Arial";
   font-weight: 300;
   line-height: 20px;
   color: #FFFFFF;
