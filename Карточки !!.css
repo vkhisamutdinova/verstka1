@@ -102,7 +102,7 @@ body {
   text-align: center;
 }
 .card h3 {
-  margin-top: 100px;
+  margin-top: -100px;
   font-weight: bold;
   line-height: 20px;
   color: white;
@@ -122,12 +122,12 @@ body {
 }
 .card .header {
   padding: 55px 20px;
-  background: linear-gradient(to top, #69995D, #558749, #152611);
+  background: linear-gradient(to top, #398227, #558749, #152611);
   color: white;
   font-size: 11pt;
 }
 .card .back .content .main {
-  height: 165px;
+  height: 200px;
 }
 .front {
   -moz-backface-visibility: hidden;
