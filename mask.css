@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Spline+Sans+Mono:wght@500&display=swap');
-
 .img {
 background-image: url('https://i.ibb.co/H73WBwm/imgonline-com-ua-Black-White-1-Djsrpr-WDd-RXrg-E4.jpg');
 background-size: 100vw;
@@ -10,7 +9,7 @@ p {
   position: absolute;
   bottom: 0;  
   margin-bottom: 0.4vw;
-  color: white;
+  color: #ffffff;
 }
 #row2b {
   text-align:right;
