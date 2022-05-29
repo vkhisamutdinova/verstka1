@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Spline+Sans+Mono:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 .img {
 background-image: url('https://i.ibb.co/H73WBwm/imgonline-com-ua-Black-White-1-Djsrpr-WDd-RXrg-E4.jpg');
 background-size: 100vw;
@@ -15,7 +15,7 @@ p {
   text-align:right;
 }
 #row2b > p {
-  font-family: 'Spline Sans Mono', monospace;
+  font-family: 'Abril Fatface', cursive;
   position: relative;
   font-size: 42px;
 }
